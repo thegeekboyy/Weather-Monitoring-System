@@ -1,0 +1,32 @@
+body{
+       font-family: Open Sans;
+      background-color: lightsteelblue;
+       background-size: inherit;
+
+       margin: 20px;
+       padding: 200px;
+      
+  
+h1{
+    font-family: Open Sans;
+    font-color: ()
+}
+fieldset{
+    text-align: center;
+    text-shadow: black;
+    text-size-adjust:none ;
+    
+
+   font-size: larger;    
+}
+input{
+    color: papayawhip;
+}
+
+button {
+
+
+   font-family: Open Sans;
+   border-radius: 1000mm; 
+}
+   
